@@ -1,0 +1,14 @@
+天命之門 3D · EMOJI 探險 — 配樂與第三方元件
+
+配樂（來源：The Battle for Wesnoth，https://github.com/wesnoth/wesnoth ，授權 GNU GPL v2 或更新版本）
+  audio/town.mp3     Traveling Minstrels — Mattias Westlund (West)      城鎮
+  audio/field.mp3    Wanderer            — Timothy Pinkham (TimothyP)   原野
+  audio/dungeon.mp3  Underground         — Aleksi Aubry-Carlson (Aleksi) 地下城
+  audio/battle.mp3   Battle              — Aleksi Aubry-Carlson (Aleksi) 一般戰鬥
+  audio/boss.mp3     Battle Epic         — Doug Kaufman (dkaufman)      頭目戰
+  已由原始 OGG 轉為 96 kbps MP3（僅格式轉換）。授權全文見 audio/LICENSE-GPL-2.txt。
+  再散布這些音檔時，請一併附上本檔與授權全文，並說明原始檔取得處（上方 GitHub 連結）。
+
+第三方程式庫（已內附於 lib/，供離線使用）
+  three.js r128 — MIT（lib/LICENSE-three.txt）
+  rot.js 2.2.0  — BSD-3-Clause
